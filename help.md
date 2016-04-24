@@ -15,9 +15,7 @@
 *I am serious!*
  
 `while true:
-
 	do echo "I am learning!"
-
 done`
 
 ***
